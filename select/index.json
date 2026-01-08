@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ウルフィズム/feat.flower",
+  "base_artist": "ふぁるすてぃ",
+  "createdAt": "2026-01-08T17:23:18.211885Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ウルフィズム",
+      "artist": "ふぁるすてぃ",
+      "has_synced": false,
+      "path": "select/pl_01_ウルフィズム_ふぁるすてぃ.txt"
+    }
+  ]
+}
